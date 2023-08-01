@@ -27,7 +27,7 @@ const Archana = () => {
             </span>
           ))}
         </div>
-        <div className="font-bold cursor-pointer hover:text-[red] hover:underline">
+        <div className="font-bold cursor-pointer hover:text-[lime] hover:underline">
           Contact me
         </div>
       </div>
